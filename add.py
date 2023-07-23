@@ -1,3 +1,3 @@
-a = 65
-b = 6
-print (a+b)
+a = 10
+b = 2
+print (a*b)
